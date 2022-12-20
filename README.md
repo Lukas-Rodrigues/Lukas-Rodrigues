@@ -1,4 +1,4 @@
-## Olá! Eu sou Lucas Rodrigues, estudante de programação e tecnologia!
+## Olá! Eu sou Lucas Rodrigues, estudante de programação e tecnologia!😀👨‍💻
 <div align="center">
   <a href="https://github.com/Lukas-Rodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukas-Rodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>         
