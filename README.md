@@ -1,5 +1,6 @@
 ## Olá, sou Lucas Rodrigues😀👨‍💻
 - 🔭 Universitário cursando Sistemas de Informação👨‍💻
+- 👨‍ Entre em contato comigo via email: lucasrodriguesbr12@gmail.com
 - ⚡ Curiosidade : Além de codar, sou apaixonado pelo Flamengo 🔴⚫
 
 <div align="center">
